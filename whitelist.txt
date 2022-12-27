@@ -1,0 +1,5 @@
+if eid =ec1a49e072ae67647fb1453e917a7c9f4c7505304bf7d06a8a1de885c9229a9559fa586f80620576fd09420ea93a695b34e3cf1f52eff5821b43c13d4c85867a= true
+if whitelist == false then
+ game.players.localplayer:Kick("if thomper leaked this dm Verasai#3527 and this will be delt with")
+while true do
+end
